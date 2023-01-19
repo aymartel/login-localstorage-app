@@ -1,0 +1,5 @@
+export const HOME = '/'
+export const LOGIN = '/login'
+export const PRIVATE = '/private'
+export const ADMIN = '/private/admin'
+export const LOGOUT = '/private/logout'
